@@ -8,7 +8,7 @@
 
 
 
-Docker image with SSHD running under Linux and Supervisor.
+Docker image with SSH Daemon running under Linux and Supervisor.
 
 #### Usage
 to be able to connect user can provide port and password for `root` user. Please see examples below.
