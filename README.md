@@ -1,4 +1,4 @@
-## SSH Daemon (Linux + Supervisord Golang)
+## SSH Daemon (Linux + Supervisord)
 
 [![GitHub Open Issues](https://img.shields.io/github/issues/jniltinho/docker-ssh.svg)](https://github.com/jniltinho/docker-ssh/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/jniltinho/docker-ssh.svg)](https://github.com/jniltinho/docker-ssh)
