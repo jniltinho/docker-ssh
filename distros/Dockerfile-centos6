@@ -34,5 +34,4 @@ RUN curl -skLO https://github.com/girigiribauer/go-pwgen/releases/download/v0.2.
 EXPOSE 9001 22
 
 COPY container-files /
-VOLUME ["/data"]
 ENTRYPOINT ["/config/bootstrap.sh"]
